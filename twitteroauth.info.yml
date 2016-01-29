@@ -1,0 +1,4 @@
+type: module
+name: 'Twitter OAuth'
+description: 'Twitter OAuth'
+core: 8.x

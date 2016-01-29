@@ -1,11 +1,11 @@
 {
-    "name": "myvendor/mymodule",
+    "name": "kosada/twitteroauth",
     "type": "drupal-module",
     "license": "GPLv2",
     "authors": [
         {
             "name": "Matthew Radcliffe",
-            "email": "mradcliffe@example.com"
+            "email": "mradcliffe@softpixel.com"
         }
     ],
     "require": {
