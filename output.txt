@@ -1,0 +1,173 @@
+$ php modules/composer_manager/scripts/init.php 
+Composer Manager has been successfully initialized.
+$ composer drupal-update --no-dev
+> Drupal\composer_manager\Composer\Command::update
+Loading composer repositories with package information
+Updating dependencies
+  - Removing jcalderonzumba/mink-phantomjs-driver (v0.3.1)
+  - Removing symfony/browser-kit (v2.7.6)
+  - Removing symfony/dom-crawler (v2.7.6)
+  - Removing symfony/css-selector (v2.7.6)
+  - Removing jcalderonzumba/gastonjs (dev-master)
+  - Removing phpunit/phpunit (4.8.11)
+  - Removing phpspec/prophecy (v1.5.0)
+  - Removing phpunit/php-code-coverage (2.2.4)
+  - Removing phpunit/php-file-iterator (1.4.1)
+  - Removing phpunit/php-timer (1.0.7)
+  - Removing phpunit/phpunit-mock-objects (2.3.8)
+  - Removing doctrine/instantiator (1.0.5)
+  - Removing phpunit/php-text-template (1.2.1)
+  - Removing sebastian/comparator (1.2.0)
+  - Removing sebastian/diff (1.3.0)
+  - Removing sebastian/environment (1.3.2)
+  - Removing sebastian/exporter (1.2.1)
+  - Removing sebastian/recursion-context (1.0.1)
+  - Removing sebastian/global-state (1.0.0)
+  - Removing sebastian/version (1.0.6)
+  - Removing phpunit/php-token-stream (1.4.8)
+  - Removing phpdocumentor/reflection-docblock (2.0.4)
+  - Removing mikey179/vfsstream (v1.6.0)
+  - Removing behat/mink-goutte-driver (v1.2.0)
+  - Removing behat/mink-browserkit-driver (v1.3.0)
+  - Removing behat/mink (v1.7.0)
+  - Removing fabpot/goutte (v3.1.1)
+  - Removing composer/installers (v1.0.21)
+  - Installing composer/installers (v1.0.23)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/class-loader (v2.7.6)
+  - Installing symfony/class-loader (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/console (v2.7.6)
+  - Installing symfony/console (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/dependency-injection (v2.7.6)
+  - Installing symfony/dependency-injection (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/debug (v2.7.6)
+  - Installing symfony/debug (v2.8.2)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/http-foundation (v2.7.6)
+  - Installing symfony/http-foundation (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/event-dispatcher (v2.7.6)
+  - Installing symfony/event-dispatcher (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/http-kernel (v2.7.6)
+  - Installing symfony/http-kernel (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/routing (v2.7.6)
+  - Installing symfony/routing (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/serializer (v2.7.6)
+  - Installing symfony/serializer (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/translation (v2.7.6)
+  - Installing symfony/translation (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/validator (v2.7.6)
+  - Installing symfony/validator (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/process (v2.7.6)
+  - Installing symfony/process (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing symfony/yaml (v2.7.6)
+  - Installing symfony/yaml (v2.7.9)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing twig/twig (v1.23.1)
+  - Installing twig/twig (v1.24.0)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing doctrine/inflector (v1.0.1)
+  - Installing doctrine/inflector (v1.1.0)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing doctrine/cache (v1.4.2)
+  - Installing doctrine/cache (v1.6.0)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing doctrine/common (v2.5.1)
+  - Installing doctrine/common (v2.5.3)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing guzzlehttp/promises (1.0.2)
+  - Installing guzzlehttp/promises (1.0.3)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing guzzlehttp/psr7 (1.2.0)
+  - Installing guzzlehttp/psr7 (1.2.2)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing guzzlehttp/guzzle (6.1.0)
+  - Installing guzzlehttp/guzzle (6.1.1)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing zendframework/zend-stdlib (2.7.3)
+  - Installing zendframework/zend-stdlib (2.7.4)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing zendframework/zend-feed (2.5.2)
+  - Installing zendframework/zend-feed (2.6.0)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing egulias/email-validator (1.2.9)
+  - Installing egulias/email-validator (1.2.11)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing zendframework/zend-diactoros (1.1.3)
+  - Installing zendframework/zend-diactoros (1.3.3)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Removing composer/semver (1.0.0)
+  - Installing composer/semver (1.2.0)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+  - Installing abraham/twitteroauth (dev-master ebb9f5d)
+    Loading from cache
+
+> Drupal\Core\Composer\Composer::vendorTestCodeCleanup
+Writing lock file
+Generating autoload files
+> Drupal\Core\Composer\Composer::preAutoloadDump
+> Drupal\Core\Composer\Composer::ensureHtaccess
+$ find vendor -name twitteroauth -type d
+vendor/abraham/twitteroauth

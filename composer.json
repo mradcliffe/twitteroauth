@@ -1,0 +1,14 @@
+{
+    "name": "myvendor/mymodule",
+    "type": "drupal-module",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Matthew Radcliffe",
+            "email": "mradcliffe@example.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "dev-master"
+    }
+}
